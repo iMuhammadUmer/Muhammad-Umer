@@ -1,8 +1,8 @@
 ## Muhammad Umer
 
-You can use the [editor on GitHub](https://github.com/iMuhammadUmer/portfolio/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Open source contributor 📣 • Full stack developer ⚡ • Aptech ACCP - EE certified 👨‍🎓 • DAAP developer 📜 • Future GDE 🔥
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I am competent Software engineer, possessing a hardworking nature, always looking forward to help myself in order to improve by skills. I am A Full Stack developer, DAPP Developer, a freelancer, ACCP-EE certified from APTECH. I am also doing a course on Block-chain from PIAIC. My future goal is to become a computer software professional so that I can excel in my field with my abilities.
 
 ### Markdown
 

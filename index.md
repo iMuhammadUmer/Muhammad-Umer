@@ -5,8 +5,14 @@ Open source contributor 📣 • Full stack developer ⚡ • Aptech ACCP - EE c
 I am competent Software engineer, possessing a hardworking nature, always looking forward to help myself in order to improve by skills. I am A Full Stack developer, DAPP Developer, a freelancer, ACCP-EE certified from APTECH. I am also doing a course on Block-chain from PIAIC. My future goal is to become a computer software professional so that I can excel in my field with my abilities.
 
 ### Skills
- ____________
-|HTML 5|CSS 3|
+
+|       HTML5      |   CSS3  |       Bootstrap       |
+|:----------------:|:-------:|:---------------------:|
+| JavaScript (ES5) |   PHP   |           C#          |
+|      Asp.Net     | Mvc.Net |          Java         |
+|        SQL       |  MySQL  | Mobile Apps (Android) |
+|         R        |  Python |        Solidity       |
+|    Blockchain    |   Git   |         Github        |
 
 ```markdown
 Syntax highlighted code block

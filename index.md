@@ -1,12 +1,12 @@
-## About Me
+## Muhammad Umer
 
 Open source contributor 📣 • Full stack developer ⚡ • Aptech ACCP - EE certified 👨‍🎓 • DAAP developer 📜 • Future GDE 🔥
 
 I am competent Software engineer, possessing a hardworking nature, always looking forward to help myself in order to improve by skills. I am A Full Stack developer, DAPP Developer, a freelancer, ACCP-EE certified from APTECH. I am also doing a course on Block-chain from PIAIC. My future goal is to become a computer software professional so that I can excel in my field with my abilities.
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Skills
+ ____________
+|HTML 5|CSS 3|
 
 ```markdown
 Syntax highlighted code block

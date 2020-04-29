@@ -19,6 +19,8 @@ I am competent Software engineer, possessing a hardworking nature, always lookin
 1. [LoCoMoGo](https://www.locomogo.com/) clone => (https://imuhammadumer.github.io/locomogo.com_mockup/)
 
 ## Contact
+[![alt text][1.1]][1]
+
 [1.1]: http://i.imgur.com/0o48UoR.png (github icon with padding)
 
 [1]: http://www.github.com/carlsednaoui

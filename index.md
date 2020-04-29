@@ -16,11 +16,17 @@ I am competent Software engineer, possessing a hardworking nature, always lookin
 
 ## Projects/Practices
 ### HTML & CSS 
-1. [LoCoMoGo](https://www.locomogo.com/) clone => (https://imuhammadumer.github.io/locomogo.com_mockup/)
+1. [LoCoMoGo](https://www.locomogo.com/) clone => [](https://imuhammadumer.github.io/locomogo.com_mockup/)
 
 ## Contact
 [![alt text][1.1]][1]
+[![alt text][2.1]][2]
+[![alt text][3.1]][3]
 
-[1.1]: http://i.imgur.com/0o48UoR.png (github icon with padding)
+[1.1]: http://i.imgur.com/0o48UoR.png 
+[2.1]: http://i.imgur.com/tXSoThF.png 
+[3.1]: http://i.imgur.com/P3YfQoD.png 
 
-[1]: http://www.github.com/carlsednaoui
+[1]: https://github.com/iMuhammadUmer
+[2]: https://twitter.com/iMuhammad__Umer
+[3]: https://www.facebook.com/iMuhammadUmer0

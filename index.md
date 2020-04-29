@@ -1,4 +1,4 @@
-## Muhammad Umer
+# Muhammad Umer
 
 Open source contributor 📣 • Full stack developer ⚡ • Aptech ACCP - EE certified 👨‍🎓 • DAAP developer 📜 • Future GDE 🔥
 

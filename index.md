@@ -16,12 +16,9 @@ I am competent Software engineer, possessing a hardworking nature, always lookin
 
 ## Projects/Practices
 ### HTML & CSS 
-1. [LoCoMoGo](https://www.locomogo.com/) clone => https://imuhammadumer.github.io/locomogo.com_mockup/
+1. [LoCoMoGo](https://www.locomogo.com/) clone => (https://imuhammadumer.github.io/locomogo.com_mockup/)
 
-### Jekyll Themes
+## Contact
+[1.1]: http://i.imgur.com/0o48UoR.png (github icon with padding)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/iMuhammadUmer/portfolio/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+[1]: http://www.github.com/carlsednaoui
